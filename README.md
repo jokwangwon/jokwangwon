@@ -25,6 +25,6 @@ Exploring LangGraph · FastAPI · Docker · STT pipelines
 ---
 
 ### 🌐 Portfolio
-→ [lindydone.notion.site]([https://lindydone.notion.site](https://five-skiff-22b.notion.site/Dev-Space-292b362f1ade80678dddf1495836dd5b?source=copy_link))  
+→ [lindydone.notion.site]([https://five-skiff-22b.notion.site/Dev-Space-292b362f1ade80678dddf1495836dd5b?source=copy_link])  
 *(Detailed architecture notes, AI experiments, and documentation)*
 
