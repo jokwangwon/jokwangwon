@@ -9,14 +9,7 @@ Exploring LangGraph · FastAPI · Docker · STT pipelines
 ### ⚙️ Focus Areas
 - 🧩 AI Orchestration (LangGraph / LLM Integration)
 - ⚙️ Backend Design (FastAPI / Async Architecture)
-- 🧠 STT & Speech Intelligence (Whisper / Qwen)
 - 🧪 DevOps & Infra (Docker / WSL2 / CI/CD)
-
----
-
-### 🧩 Current Work
-Working on advanced **AI backend orchestration systems**  
-focused on real-time speech understanding and intelligent analysis.
 
 ---
 
@@ -35,6 +28,3 @@ focused on real-time speech understanding and intelligent analysis.
 → [lindydone.notion.site](https://lindydone.notion.site)  
 *(Detailed architecture notes, AI experiments, and documentation)*
 
----
-
-> 🧩 _“Building systems that listen, think, and evolve.”_
