@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Lindydone (Jo Kwangwon)
+# I'm Lindydone (Jo Kwangwon)
 
 🧠 **AI System & Backend Engineer**  
 Exploring LangGraph · FastAPI · Docker · STT pipelines
